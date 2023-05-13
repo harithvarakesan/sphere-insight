@@ -1,0 +1,17 @@
+
+.destinations{
+    text-align: center;
+}
+.image{
+    padding: 20px;
+    font-size: 1.4vw;
+    float: left;
+    height: 28vw;
+}
+.image img{
+    width: 40vw;
+    max-width: 500px;
+}
+.image img:hover{
+    opacity: 70%;
+}
